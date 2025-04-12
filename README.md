@@ -1,0 +1,3 @@
+pasword=GLT3LeQp1ZOseBvf
+account=tashfeenkhan158
+database=
